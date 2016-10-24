@@ -3,7 +3,6 @@
 // Tauber, Kristen 100%
 
 import java.util.Scanner;
-// comment
 public class Lab1 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
